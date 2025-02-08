@@ -8,7 +8,8 @@ public class LatestClass {
 
 	public static void method() {
 		
-	
+	System.out.println("abhasdoij");
+	System.out.println("asdkjabds");
 		
 	}
 }
