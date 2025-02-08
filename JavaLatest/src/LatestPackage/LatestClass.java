@@ -10,6 +10,7 @@ public class LatestClass {
 		
 	System.out.println("abhasdoij");
 	System.out.println("asdkjabds");
+	System.out.println("adskb");
 		
 	}
 }
